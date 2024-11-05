@@ -14,7 +14,7 @@ safetensors==0.4.3
 scikit_learn
 scipy
 seaborn==0.13.2
-torch==2.0.1
+torch
 tqdm==4.66.1
 trimesh==4.0.2
 viser==0.1.28
