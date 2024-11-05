@@ -17,4 +17,4 @@ seaborn==0.13.2
 torch
 tqdm==4.66.1
 trimesh==4.0.2
-viser==0.1.28
+viser
