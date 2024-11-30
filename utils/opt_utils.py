@@ -252,8 +252,8 @@ def ConvexDecompositionIntoURDF(input_obj_path, output_dir_path):
                 - decomposed_all.obj
     ---
     Example:
-    input_obj_path = "/home/xzhixuan/Projects/unicontact/UniContact_04/assets/geometry_files/cup.obj"
-    output_dir_path = "/home/xzhixuan/Projects/unicontact/UniContact_04/assets/geometry_files"
+    input_obj_path = "3rdparty/unicontact/UniContact_04/assets/geometry_files/cup.obj"
+    output_dir_path = "3rdparty/unicontact/UniContact_04/assets/geometry_files"
     output_object_obj_path, output_object_urdf_path = ConvexDecompositionIntoURDF(input_obj_path, output_dir_path)
     '''
 
@@ -375,8 +375,8 @@ def ConvexDecompositionIntoURDFwithScale(input_obj_path, output_dir_path, scale=
                 - decomposed_all.obj
     ---
     Example:
-    input_obj_path = "/home/xzhixuan/Projects/unicontact/UniContact_04/assets/geometry_files/cup.obj"
-    output_dir_path = "/home/xzhixuan/Projects/unicontact/UniContact_04/assets/geometry_files"
+    input_obj_path = "3rdparty/unicontact/UniContact_04/assets/geometry_files/cup.obj"
+    output_dir_path = "3rdparty/unicontact/UniContact_04/assets/geometry_files"
     output_object_obj_path, output_object_urdf_path = ConvexDecompositionIntoURDF(input_obj_path, output_dir_path)
     '''
 
